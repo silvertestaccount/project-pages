@@ -10,9 +10,10 @@ category: project1
 theme: beige
 trans: cube
 visualworkflow: false
-published: false
+published: true
 title: Awesome Post
 ---
+
 
 ## A New Post
 
