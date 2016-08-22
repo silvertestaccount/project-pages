@@ -11,7 +11,7 @@ theme: beige
 trans: cube
 visualworkflow: false
 published: false
-title: ""
+title: Awesome Post
 ---
 
 ## A New Post
